@@ -1,0 +1,17 @@
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\bin\Debug\net6.0-windows\Vothanhtrong_2121110273.exe
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\bin\Debug\net6.0-windows\Vothanhtrong_2121110273.deps.json
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\bin\Debug\net6.0-windows\Vothanhtrong_2121110273.runtimeconfig.json
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\bin\Debug\net6.0-windows\Vothanhtrong_2121110273.dll
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\bin\Debug\net6.0-windows\Vothanhtrong_2121110273.pdb
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.csproj.AssemblyReference.cache
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.Form1.resources
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.csproj.GenerateResource.cache
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.AssemblyInfoInputs.cache
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.AssemblyInfo.cs
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.csproj.CoreCompileInputs.cache
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.dll
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\refint\Vothanhtrong_2121110273.dll
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.pdb
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\Vothanhtrong_2121110273.genruntimeconfig.cache
+D:\Vothanhtrong_2121110273\Vothanhtrong_2121110273\obj\Debug\net6.0-windows\ref\Vothanhtrong_2121110273.dll
